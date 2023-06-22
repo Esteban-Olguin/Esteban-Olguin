@@ -19,12 +19,12 @@
 <div align="center">
   <h3 align="center">InfoTkd</h3>
   <div align="center">
-    <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+    <a href="https://infotkd.netlify.app/index.html" target="_blank">
       <img src="https://github.com/Esteban-Olguin/Esteban-Olguin/blob/master/assets/103124229/6ee3bed2-8f1f-486e-a0ed-6e214ba5883a.png" width="400" alt="InfoTkd">
     </a>
     <a href="https://infotkd.netlify.app/index.html" target="_blank">
       <img src="https://img.shields.io/badge/-InfoTkd-green?style=for-the-badge&color=fbfc40">
     </a>
-    <p>Toda la teoría del Taekwon-Do a un click!</p>
+    <p>¡Toda la teoría del Taekwon-Do a un click!</p>
   </div>
 </div>
