@@ -1,10 +1,8 @@
+<img align="center" src="https://res.cloudinary.com/dyoiulgxn/image/upload/v1687416872/GitHub_Banner_tfk0so.png" alt="Banner">
+
 <div align="center">
   <h1 align="center">Hello! I'm <a href="https://www.instagram.com/emi_olguin_/" target="_blank">Esteban Olguin</a> 👋</h1>
 </div>
-
-<p align="center">
-  <img src="https://drive.google.com/file/d/1Evn4X2_SB4v45d1OnndMXbOd_ZU5ow9N/view?usp=drive_link" alt="Banner">
-</p>
 
 ## About Me
 
@@ -20,8 +18,9 @@
   <h3 align="center">InfoTkd</h3>
   <div align="center">
     <a href="https://infotkd.netlify.app/index.html" target="_blank">
-      <img src="https://github.com/Esteban-Olguin/Esteban-Olguin/blob/master/assets/103124229/6ee3bed2-8f1f-486e-a0ed-6e214ba5883a.png" width="400" alt="InfoTkd">
+      <img src="https://res.cloudinary.com/dyoiulgxn/image/upload/v1687416528/logo_pdxmzj.png" width="230" alt="InfoTkd">
     </a>
+    <br>
     <a href="https://infotkd.netlify.app/index.html" target="_blank">
       <img src="https://img.shields.io/badge/-InfoTkd-green?style=for-the-badge&color=fbfc40">
     </a>
