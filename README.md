@@ -27,7 +27,7 @@
     </a>
     <br>
     <a href="https://infotkd.netlify.app/index.html" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-InfoTkd-green?style=for-the-badge&color=fbfc40" alt="InfoTkd Badge">
+      <img src="https://img.shields.io/badge/-InfoTkd-blue?style=for-the-badge&color=3063c2" alt="InfoTkd Badge">
     </a>
     <p>🥋 All the theory of Taekwon-Do at a click! (in Spanish)</p>
   </div>
