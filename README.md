@@ -1,4 +1,4 @@
-# Esteban Olguin - Junior Web Developer 🌱
+# Esteban Olguin - Junior Frontend Web Developer 🌱
 
 ![Banner](https://res.cloudinary.com/dyoiulgxn/image/upload/v1687416872/GitHub_Banner_tfk0so.png)
 
