@@ -37,6 +37,6 @@
 
 - 📫 Reach me via email: [olguinesteban20@outlook.com](mailto:olguinesteban20@outlook.com)
 - 💼 Connect with me on LinkedIn: [linkedin.com/esteban-emiliano-olguin](https://www.linkedin.com/in/esteban-emiliano-olguin/)
-- 🐦 Follow me on Twitter: [twitter/olguin__esteban](https://twitter.com/olguin__esteban)
+- 🐦 Follow me on Twitter: [twitter.com/olguin__esteban](https://twitter.com/olguin__esteban)
 
 
